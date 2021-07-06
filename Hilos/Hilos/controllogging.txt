@@ -1,0 +1,6 @@
+23:18:31 (DEBUG): Mensaje de depuración (archivo: ejemplologging.py)
+23:18:31 (INFO): Mensaje de información (archivo: ejemplologging.py)
+23:18:31 (WARNING): Mensaje de aviso (archivo: ejemplologging.py)
+23:18:31 (ERROR): Mensaje de error (archivo: ejemplologging.py)
+23:18:31 (CRITICAL): Mensaje de error crítico (archivo: ejemplologging.py)
+23:18:31 (INFO): Mensaje con un logging alternativo (archivo: ejemplologging.py)

@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Raleway');
+
+body {
+	background-color: lightblue;
+}
+
+.lun, .mar, .mie, .jue, .vie, .sab, .dom {
+	font-family: 'Lato', sans-serif;
+}
+
+.sab, .dom {
+	background-color: white;
+}
+
+.dom {
+	color: red;
+	font-weight: bold;
+}
+
+.enblanco {
+	background-color: lightblue;
+}
+
+.mes {
+	margin: 15px;
+	background-color: lightgray;
+}
+
+.anyo {
+	margin: auto;
+	border: solid;
+	font-size: 30pt;
+}

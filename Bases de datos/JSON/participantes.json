@@ -1,0 +1,71 @@
+{
+   "participantes": [
+      {
+         "nombre": "Inés",
+         "ciudad": "Baracaldo",
+         "edad": 45,
+         "aficiones": [
+            "lectura",
+            "senderismo"
+         ]
+      },
+      {
+         "nombre": "Inés",
+         "ciudad": "Baracaldo",
+         "edad": 45,
+         "aficiones": [
+            "lectura",
+            "senderismo"
+         ]
+      },
+      {
+         "nombre": "Inés",
+         "ciudad": "Baracaldo",
+         "edad": 45,
+         "aficiones": [
+            "lectura",
+            "senderismo"
+         ]
+      },
+      {
+         "nombre": "Jordi",
+         "ciudad": "Tarragona",
+         "edad": 53,
+         "aficiones": [
+            "cine",
+            "running",
+            "pintura"
+         ]
+      },
+      {
+         "nombre": "Jordi",
+         "ciudad": "Tarragona",
+         "edad": 53,
+         "aficiones": [
+            "cine",
+            "running",
+            "pintura"
+         ]
+      },
+      {
+         "nombre": "Jordi",
+         "ciudad": "Tarragona",
+         "edad": 53,
+         "aficiones": [
+            "cine",
+            "running",
+            "pintura"
+         ]
+      },
+      {
+         "nombre": "Jordi",
+         "ciudad": "Tarragona",
+         "edad": 53,
+         "aficiones": [
+            "cine",
+            "running",
+            "pintura"
+         ]
+      }
+   ]
+}

@@ -1,0 +1,50 @@
+{
+   "socios": [
+      {
+         "num-socio": "1",
+         "nombre": "",
+         "compras": [
+            {
+               "codigo": "",
+               "cantidad": ""
+            },
+            {
+               "codigo": "",
+               "cantidad": ""
+            },
+            {
+               "codigo": "004",
+               "cantidad": "23"
+            }
+         ]
+      },
+      {
+         "num-socio": "2",
+         "nombre": "segundo socio",
+         "compras": [
+            {
+               "codigo": "003",
+               "cantidad": "25"
+            }
+         ]
+      },
+      {
+         "num-socio": "1",
+         "nombre": "",
+         "compras": [
+            {
+               "codigo": "",
+               "cantidad": ""
+            },
+            {
+               "codigo": "",
+               "cantidad": ""
+            },
+            {
+               "codigo": "",
+               "cantidad": ""
+            }
+         ]
+      }
+   ]
+}

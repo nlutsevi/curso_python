@@ -1,0 +1,20 @@
+from clases.cuentabancaria import cuentabancaria
+
+cuenta = cuentabancaria("456789123", 1.38, 0)
+cuenta.moneda_actual("e")
+
+print("Establecemos una cuenta bancaria con cambio a", cuenta.cambio, "y en euros.")
+print("Ingresamos 250.5 euros y moostramos el saldo en ambas monedas")
+cuenta.ingresar(250.5)
+print(" - Cantidad en euros:", cuenta.muestra_euros())
+print(" - Cantidad en dólares:", cuenta.muestra_dolares())
+print("Ingresamos 125.75 euros y moostramos el saldo en ambas monedas")
+cuenta.ingresar(125.75)
+print(" - Cantidad en euros:", cuenta.muestra_euros())
+print(" - Cantidad en dólares:", cuenta.muestra_dolares())
+print("Cambiamos la moneda actual a dólares")
+cuenta.moneda_actual("d")
+print("Retiramos 20 dólares y mostramos el saldo en ambas monedas")
+cuenta.retirar(20)
+print(" - Cantidad en euros:", cuenta.muestra_euros())
+print(" - Cantidad en dólares:", cuenta.muestra_dolares())
